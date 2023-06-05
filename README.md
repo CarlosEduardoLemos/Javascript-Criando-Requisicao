@@ -10,7 +10,7 @@ Este projeto, chamado AluraPlay, tem como objetivo implementar três funcionalid
 | -------------  | --- |
 | :sparkles: Nome        | **AluraPlay**
 | :label: Tecnologias | HTML, CSS, JavaScript e Backend de sua escolha
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/Javascript-Criando-Requisicao/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/imagens/screenshot.png#vitrinedev)
